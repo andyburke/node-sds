@@ -1,0 +1,12 @@
+{
+  "name": "sds",
+  "description": "Simple Debug Server: http debug server in node.js",
+  "author": "Andy Burke <aburke@bitflood.org>",
+  "version": "0.0.1",
+  "main": "server.js",
+  "bin" : "server.js",
+  "dependencies": {
+    "commander": "2.1.x"
+  },
+  "engine": "node >= 0.10.0"
+}
